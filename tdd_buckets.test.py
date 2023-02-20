@@ -4,7 +4,7 @@ import tdd_buckets as tddb
 import tdd_buckets_constants as tddbc
 
 
-class TypewiseTest(unittest.TestCase):
+class TDDTest(unittest.TestCase):
 
   def test_check_and_alert(self):
     self.assertEqual(
